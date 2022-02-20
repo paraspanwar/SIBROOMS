@@ -1,0 +1,4 @@
+rootProject.name = "SIBROOMS"
+include ':app'
+include ':ui'
+include ':data'
